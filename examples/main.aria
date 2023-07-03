@@ -1,0 +1,3 @@
+var name = "clark kent";
+
+print(name);
